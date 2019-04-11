@@ -1,3 +1,4 @@
+Michael Jenkins
 # Redux Counter
 
 ## Topics
